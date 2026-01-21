@@ -14,7 +14,7 @@ This projekt explores which supervised machine learning models are best at class
 - Matplotlib
 
 ## Dataset 
-This datasdet was found through kaggle. The entire dataset can be found in the file dataset.csv, whilst the file "januar.py" is the code used to sort our subgenres into the main genres. The link too kaggle can be found in our report. 
+This datasdet was found through kaggle. The entire dataset can be found in the file dataset.csv, whilst the file "SortingData.py" is the code used to sort our subgenres into the main genres. The link too kaggle can be found in our report. 
 
 ## Models
 Each model Random Forest(RF), Support Vector Machine (SVM), Neural Network (MLP), has all code regarding each model (training, plots, oversampling etc.) in each their Python Notebooks. 
