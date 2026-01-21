@@ -19,3 +19,6 @@ This datasdet was found through kaggle. The entire dataset can be found in the f
 ## Models
 Each model (Random Forest, SVM, Neural Network), has all code regarding each model (training, plots, oversampling etc.) in each their Python Notebooks. 
 
+## Statistics
+Some of the statistical calculations (Confidence intervals) we made in a notebook. 
+
